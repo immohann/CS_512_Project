@@ -1,9 +1,0 @@
-model_performance filter=lfs diff=lfs merge=lfs -text
-Car_severity_detection.ipynb filter=lfs diff=lfs merge=lfs -text
-LICENSE filter=lfs diff=lfs merge=lfs -text
-helper_functions.py filter=lfs diff=lfs merge=lfs -text
-data filter=lfs diff=lfs merge=lfs -text
-saved_checkpoints filter=lfs diff=lfs merge=lfs -text
-Car_damage_location.ipynb filter=lfs diff=lfs merge=lfs -text
-Car_damage_or_not.ipynb filter=lfs diff=lfs merge=lfs -text
-Readme.md filter=lfs diff=lfs merge=lfs -text
